@@ -1,0 +1,16 @@
+<resources>
+
+  <!-- Base application theme. -->
+  <style name="AppTheme" parent="Theme.Design.Light.NoActionBar">
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowActionBar">false</item>
+    <item name="android:statusBarColor">#00a695</item>
+  </style>
+
+
+  <style name="AppTheme.Splash" parent ="Theme.Design.Light.NoActionBar">
+    <item name="android:windowBackground">@drawable/splash_screen</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:statusBarColor">#00a695</item>
+  </style>
+</resources>

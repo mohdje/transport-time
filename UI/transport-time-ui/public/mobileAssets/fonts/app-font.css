@@ -1,0 +1,9 @@
+@font-face {
+  font-family: AppFont;
+  src: url('./Lato-Regular.ttf') format("truetype");
+} 
+
+@font-face {
+  font-family: LogoFont;
+  src: url('./Roboto-Bold.ttf') format("truetype");
+} 
